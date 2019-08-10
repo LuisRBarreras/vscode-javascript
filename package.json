@@ -1,7 +1,7 @@
 {
   "name": "JavaScriptSnippets",
   "description": "Fork from Code snippets for JavaScript in ES6 syntax, thanks to xabikos",
-  "version": "1.7.2",
+  "version": "1.8.0",
   "displayName": "JS ES6 snippets",
   "publisher": "lbarreras",
   "icon": "images/javascript.png",
