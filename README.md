@@ -1,22 +1,9 @@
 # JavaScript
-## VS Code JavaScript (ES6) snippets
+## VS JS ES6 snippets
 -------------------
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/xabikos.JavaScriptSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/xabikos.JavaScriptSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/xabikos.JavaScriptSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
 This extension contains code snippets for JavaScript in ES6 syntax for [Vs Code][code] editor (supports both JavaScript and TypeScript).
-
-### Note
-**All the snippets include the final semicolon `;` There is a fork of those snippets [here](https://marketplace.visualstudio.com/items?itemName=jmsv.JavaScriptSnippetsStandard)
-made by @jmsv where semicolons are not included. So feel free to use them according to your needs.**
-
-## Installation
-
-In order to install an extension you need to launch the Command Pallete (Ctrl + Shift + P or Cmd + Shift + P) and type Extensions.
-There you have either the option to show the already installed snippets or install new ones. Search for *JavaScript (ES6) code snippets* and install it.
-
 ## Supported languages (file extensions)
 * JavaScript (.js)
 * TypeScript (.ts)
