@@ -85,5 +85,9 @@ Below is a list of all available snippets and the triggers of each one. The **�
 | `clt→`   | console table `console.table` |
 | `cti→`   | console time `console.time` |
 | `cte→`   | console timeEnd `console.timeEnd` |
+| `cljson→`   | console log JSON.stringify `console.log(JSON.stringify(object));` |
 
 [code]: https://code.visualstudio.com/
+
+### Generate Extension bundle
+vsce package

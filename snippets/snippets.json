@@ -206,5 +206,9 @@
     "prefix": "cte",
     "body": "console.timeEnd(${1:object});",
     "description": "Sets end point for execution time measurement"
+  },
+  "consoleJSON": {
+    "prefix": "cljson",
+    "body": "console.log(JSON.stringify(${1:object}));"
   }
 }
