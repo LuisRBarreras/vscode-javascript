@@ -42,6 +42,7 @@ Below is a list of all available snippets and the triggers of each one. The **�
 ### Various methods
 | Trigger  | Content |
 | -------: | ------- |
+| `fmap→`   | map function `array.map(currentItem => {})`|
 | `fre→`   | forEach loop in ES6 syntax `array.forEach(currentItem => {})`|
 | `fof→`   | for ... of loop `for(const item of object) {}` |
 | `fin→`   | for ... in loop `for(const item in object) {}` |
@@ -75,6 +76,3 @@ Below is a list of all available snippets and the triggers of each one. The **�
 | `cljson→`   | console log JSON.stringify `console.log(JSON.stringify(object));` |
 
 [code]: https://code.visualstudio.com/
-
-### Generate Extension bundle
-vsce package
