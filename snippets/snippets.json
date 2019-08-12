@@ -77,7 +77,12 @@
   },
   "map": {
     "prefix": "fmap",
-    "body": "${1:array}.map(${1:currentItem} => {\n\t${0}\n});",
+    "body": "${1:array}.map(${2:currentItem} => {\n\t${0}\n});",
+    "description": "Creates a map statement in ES6 syntax"
+  }, 
+  "filter": {
+    "prefix": "ffil",
+    "body": "${1:array}.filter(${2:currentItem} => {\n\t${0}\n});",
     "description": "Creates a map statement in ES6 syntax"
   }, 
   "forEach": {

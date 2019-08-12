@@ -42,7 +42,8 @@ Below is a list of all available snippets and the triggers of each one. The **�
 ### Various methods
 | Trigger  | Content |
 | -------: | ------- |
-| `fmap→`   | map function `array.map(currentItem => {})`|
+| `fmap→`   | map ES6 syntax `array.map(currentItem => {})`|
+| `ffil→`   | filter ES6 syntax `array.filter(currentItem => {})`|
 | `fre→`   | forEach loop in ES6 syntax `array.forEach(currentItem => {})`|
 | `fof→`   | for ... of loop `for(const item of object) {}` |
 | `fin→`   | for ... in loop `for(const item in object) {}` |
